@@ -88,8 +88,8 @@ body {
 }
 
 .intro__avatar {
-    background: urL("../img/5.jpg");
-    background-size: cover;
+    background: urL("../img/10.jpg");
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: 0 calc(var(--unit)*-8);
     position: absolute;
