@@ -134,7 +134,7 @@ body {
 
 .intro__para--blog-name {
     display: inline-block;
-    font-size: calc(var(--unit)*6);
+    font-size: calc(var(--unit)*4);
     font-weight: 600;
     color: #fff;
     background: #00000066;
